@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 9bb64c9155a457946adc6882d0dfe06a
+timeCreated: 1495724345
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Light1: {instanceID: 0}
+  - Light2: {instanceID: 0}
+  - Light3: {instanceID: 0}
+  - Light4: {instanceID: 0}
+  - Light5: {instanceID: 0}
+  - Light6: {instanceID: 0}
+  - Light7: {instanceID: 0}
+  - Light8: {instanceID: 0}
+  - Light9: {instanceID: 0}
+  - Light10: {instanceID: 0}
+  - Light11: {instanceID: 0}
+  - Light12: {instanceID: 0}
+  - Light13: {instanceID: 0}
+  - Light14: {instanceID: 0}
+  - Light15: {instanceID: 0}
+  - Light16: {instanceID: 0}
+  - Light17: {instanceID: 0}
+  - Light18: {instanceID: 0}
+  - Light19: {instanceID: 0}
+  - Light20: {instanceID: 0}
+  - Light21: {instanceID: 0}
+  - Light22: {instanceID: 0}
+  - Light23: {instanceID: 0}
+  - Light24: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
